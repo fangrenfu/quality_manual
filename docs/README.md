@@ -1,8 +1,16 @@
+## 关于本书
+
+> 本书由质量管理办公室、图书信息中心、湖南强制科技发展有限公司 两个编写。 
+> 
+> 当前版本：V1.0
+> 
+> 更新日期：2021年5月17日
 ## 目录
-* [简介]()
-* [阅读指南](read_guide.md)
-* [1. 深度学习简介](chapter01_DL-intro/deep-learning-intro.md)
-* 2\. 预备知识
-   * [2.1 环境配置](chapter02_prerequisite/2.1_install.md)
-   * [2.2 数据操作](chapter02_prerequisite/2.2_tensor.md)
-   * [2.3 自动求梯度](chapter02_prerequisite/2.3_autograd.md)
+* [系统概述](about.md)
+* 1\. 基本操作
+   * [1.1 如何登录](chapter01/1.1.md)
+   * [1.2 用户管理](chapter01/1.2.md)
+* 2\. 目标任务管理
+   * [2.1 专项任务](chapter02/2.1.md)
+   * [2.2 常规任务](chapter02/2.2.md)
+   * [2.3 常见问题](chapter02/2.3.md)
